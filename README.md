@@ -6,23 +6,23 @@ A simple Python project to convert inches to feet and yards, and vice versa. Par
 
 🚀 Features
 
-Converts inches to feet and yards.
+  * Converts inches to feet and yards.
 
-Converts yards to feet and inches.
+  * Converts yards to feet and inches.
 
-Rounds results to 2 decimal places.
+  * Rounds results to 2 decimal places.
 
 🏅 What I Learned
 
-Using round() to round numbers.
+  * Using round() to round numbers.
 
-String formatting with .format() and f-strings.
+  * String formatting with .format() and f-strings.
 
-Writing and using conditional statements.
+  * Writing and using conditional statements.
 
-Understanding how loops work for repetitive tasks.
+  * Understanding how loops work for repetitive tasks.
 
-Writing clearer, organised code.
+  * Writing clearer, organised code.
 
 🎯 Goal
 
